@@ -23,6 +23,8 @@ bower_components
 .idea
 *.iml
 
+lib/
+
 # OS metadata
 .DS_Store
 Thumbs.db
